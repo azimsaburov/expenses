@@ -2,6 +2,8 @@
 import 'package:expense_tracker/navigations/go_route.dart';
 import 'package:flutter/material.dart';
 
+// ToDo реализуй локальную базу 
+
 void main() {
   // Для Блокировки поворота экрана
   // void main() async {
